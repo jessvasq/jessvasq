@@ -10,8 +10,8 @@
 
 <div align='center'>
 
-### SOFTWARE DEVELOPER
-
+### SOFTWARE ENGINEER
+<div align= 'center' color='white' > Portfolio: https://www.jessycodes.com </div> 
 </div>
 
 ---
@@ -35,8 +35,8 @@ I'm Jess! 👩‍💻 I'm a recent graduate with a solid foundation in full stac
 <img src='https://github.com/jessvasq/jessvasq/assets/119137671/316dd1ce-5aba-4ac2-82ff-e7e209cb0afd' width=50px height=50px> 
 
 
-
 </div>
+
 
 <!--
 **jessvasq/jessvasq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,12 +2,14 @@
   
 ### **_Welcome to my mundo!_** :earth_americas:
 </div>
+
+<div align='center'>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jessvasq/jessvasq/assets/119137671/3ce5ada8-e428-4a95-96bf-4d9085481043">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jessvasq/jessvasq/assets/119137671/3ce5ada8-e428-4a95-96bf-4d9085481043">
- <img alt="bck-img" src="https://github.com/jessvasq/jessvasq/assets/119137671/3ce5ada8-e428-4a95-96bf-4d9085481043">
+ <img alt="bck-img" src="https://github.com/jessvasq/jessvasq/assets/119137671/3ce5ada8-e428-4a95-96bf-4d9085481043" width=auto height=300px>
 </picture>
-
+</div>
 <div align='center'>
 
 ### SOFTWARE ENGINEER

@@ -1,6 +1,6 @@
 <div align='center'>
   
-### *Welcome to my little mundo!*
+### Welcome to my mundo! :earth_americas:
 </div>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jessvasq/jessvasq/assets/119137671/3ce5ada8-e428-4a95-96bf-4d9085481043">
@@ -16,7 +16,7 @@
 
 ---
 
-I'm Jess! 👩‍💻 I'm a recent graduate with a solid foundation in full stack software development. I'm passionate about developing high-quality and visually appealing apps.Excited to continue learning new technologies and make meaningful contributions to deliver scalable and efficient products. 
+I'm Jess! 👩‍💻 I'm a software engineer with a solid foundation in full stack software development. I'm passionate about developing high-quality and visually appealing apps.Excited to continue learning new technologies and make meaningful contributions to deliver scalable and efficient products. 
 
 <div align='center'>
   

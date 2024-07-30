@@ -18,7 +18,7 @@
 
 ---
 
-I'm a software engineer with a solid foundation in full stack software development. I'm passionate about developing high-quality and visually appealing apps.Excited to continue learning new technologies and make meaningful contributions to deliver scalable and efficient products. 
+I'm a software engineer with a solid foundation in java full stack software development. I'm passionate about developing high-quality and visually appealing apps. Excited to continue learning new technologies and make meaningful contributions to deliver scalable and efficient products. 
 
 <div align='center'>
   

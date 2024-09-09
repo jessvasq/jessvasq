@@ -1,6 +1,6 @@
 <div align='center'>
   
-### **_Welcome to my mundo!_** :earth_americas:
+### SOFTWARE ENGINEER
 </div>
 
 <div align='center'>
@@ -12,7 +12,7 @@
 </div>
 <div align='center'>
 
-### SOFTWARE ENGINEER
+
 <div align= 'center' color='white' > Portfolio: https://www.jessycodes.com </div> 
 </div>
 

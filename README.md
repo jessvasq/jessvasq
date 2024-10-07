@@ -1,25 +1,26 @@
 <div align='center'>
   
-### SOFTWARE ENGINEER
+### ASPIRING SOFTWARE ENGINEER
 </div>
 
 <div align='center'>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jessvasq/jessvasq/assets/119137671/3ce5ada8-e428-4a95-96bf-4d9085481043">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jessvasq/jessvasq/assets/119137671/3ce5ada8-e428-4a95-96bf-4d9085481043">
- <img alt="bck-img" src="https://github.com/jessvasq/jessvasq/assets/119137671/3ce5ada8-e428-4a95-96bf-4d9085481043" height=300px width=550px >
+ <img alt="bck-img" src="https://github.com/jessvasq/jessvasq/assets/119137671/3ce5ada8-e428-4a95-96bf-4d9085481043" height=300px width=550px>
 </picture>
 </div>
 <div align='center'>
-
-
 <div align= 'center' color='white' > Portfolio: https://www.jessycodes.com </div> 
 </div>
 
+
+<div align= 'center' >
+Passionate about developing high-quality and visually appealing apps. </div>
+<div align= 'center'>
+Excited to continue learning new technologies and make meaningful contributions to deliver scalable and efficient products. </div>
+
 ---
-
-I'm a software engineer with a solid foundation in java full stack software development. I'm passionate about developing high-quality and visually appealing apps. Excited to continue learning new technologies and make meaningful contributions to deliver scalable and efficient products. 
-
 <div align='center'>
   
 <img src='https://github.com/jessvasq/jessvasq/assets/119137671/00f2eabb-c3e2-4501-8dfb-462d7e32d62a' width=50px height=50px> 
@@ -36,7 +37,7 @@ I'm a software engineer with a solid foundation in java full stack software deve
 <img src='https://github.com/jessvasq/jessvasq/assets/119137671/1e8df261-b3c2-406e-8282-30f0eedecd2f' width=50px height=50px> 
 <img src='https://github.com/jessvasq/jessvasq/assets/119137671/316dd1ce-5aba-4ac2-82ff-e7e209cb0afd' width=50px height=50px> 
 
-
+---
 </div>
 
 

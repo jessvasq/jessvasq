@@ -23,7 +23,6 @@ Excited to continue learning new technologies and make meaningful contributions 
 ---
 <div align='center'>
   
-<img src='https://github.com/jessvasq/jessvasq/assets/119137671/00f2eabb-c3e2-4501-8dfb-462d7e32d62a' width=50px height=50px> 
 <img src='https://github.com/jessvasq/jessvasq/assets/119137671/1b0270fd-29b2-41cf-b8d3-1f504af87134' width=50px height=50px> 
 <img src='https://github.com/jessvasq/jessvasq/assets/119137671/a945065c-83fe-4471-9786-5c06a14eedc6' width=50px height=50px> 
 <img src='https://github.com/jessvasq/jessvasq/assets/119137671/f6fdd364-c3e3-4959-ba86-8293c72028d8' width=60px height=50px> 

@@ -1,8 +1,8 @@
 
 <!-- <h2 align="center"> Software Engineer </h2> -->
 
-<h3 align="center">Hi, I’m Jessica 👋</h3>
-<p align="center">
+<h3 >Hi, I’m Jessica 👋</h3>
+<p >
 Software Engineer focused on building scalable full-stack applications with attention to clean design and user experience.
 </p>
 
